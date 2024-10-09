@@ -1,5 +1,6 @@
 import Header from "./components/Header";
 import ZooMap from "./components/ZooMap";
+import ZooLocation from "./components/ZooLocation";
 import { useRoutes } from "react-router-dom";
 
 function App() {
@@ -7,6 +8,10 @@ function App() {
     {
       path: "/",
       element: <ZooMap />,
+    },
+    {
+      path: "/location/:locationName",
+      element: <ZooLocation />,
     },
   ];
 
