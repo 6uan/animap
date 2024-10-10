@@ -3,7 +3,8 @@ import EventsController from "../controllers/events.js"; // Updated to reference
 
 const router = express.Router();
 
-router.get("/", EventsController.getEvents); // Changed to getEvents for events
-router.get("/:eventId", EventsController.getEventById); // Changed to getEventById for a single event
+router.get("/", EventsController.getEvents);
+router.get("/:eventId", EventsController.getEventById);
+router.get("/location/:locationName", EventsController.getEventsByLocation);
 
 export default router;

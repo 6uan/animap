@@ -28,6 +28,9 @@ export default {
       animation: {
         "custom-bounce": "custom-bounce 1s infinite",
       },
+      fontFamily: {
+        "source-code": ['"Source Code Pro"', "monospace"],
+      },
     },
   },
   plugins: [],

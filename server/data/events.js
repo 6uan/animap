@@ -9,7 +9,8 @@ const eventData = {
         "Join experts to spot and identify local bird species in Central Park.",
       peopleAttending: 60,
       location: "Central Park Zoo, Bird Sanctuary",
-      image: "https://tinyurl.com/birdwatchingtour",
+      image:
+        "https://images.pexels.com/photos/18515007/pexels-photo-18515007/free-photo-of-finch-perching-on-tree.jpeg?auto=compress&cs=tinysrgb&w=1200",
       submittedBy: "Daniel",
       submittedOn: "2024-08-20T12:34:00",
       price: "$10",
@@ -23,7 +24,8 @@ const eventData = {
         "Capture stunning photos of exotic birds in their natural habitat.",
       peopleAttending: 40,
       location: "Central Park Zoo, Tropical Aviary",
-      image: "https://tinyurl.com/birdphotography",
+      image:
+        "https://images.pexels.com/photos/27085581/pexels-photo-27085581/free-photo-of-red-ara-parrots-talking-in-cage.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       submittedBy: "Olivia",
       submittedOn: "2024-09-10T12:00:00",
       price: "$25",
@@ -36,7 +38,8 @@ const eventData = {
       description: "Enjoy feeding colorful parrots in the Tropical Aviary.",
       peopleAttending: 50,
       location: "Central Park Zoo, Tropical Aviary",
-      image: "https://tinyurl.com/parrotfeeding",
+      image:
+        "https://images.pexels.com/photos/19649396/pexels-photo-19649396/free-photo-of-parrots-in-a-tropical-forest.jpeg?auto=compress&cs=tinysrgb&w=1200",
       submittedBy: "Sophia",
       submittedOn: "2024-08-01T11:00:00",
       price: "$15",
@@ -49,7 +52,8 @@ const eventData = {
       description: "Learn about the migration patterns of tropical birds.",
       peopleAttending: 70,
       location: "Central Park Zoo, Tropical Aviary",
-      image: "https://tinyurl.com/birdmigration",
+      image:
+        "https://images.pexels.com/photos/27257108/pexels-photo-27257108/free-photo-of-hummingbirds-in-flight.jpeg?auto=compress&cs=tinysrgb&w=1200",
       submittedBy: "James",
       submittedOn: "2024-09-05T13:30:00",
       price: "$20",
@@ -63,7 +67,8 @@ const eventData = {
         "Discover the unique habitats of toucans and how to protect them.",
       peopleAttending: 80,
       location: "Central Park Zoo, Tropical Aviary",
-      image: "https://tinyurl.com/toucanshabitat",
+      image:
+        "https://images.pexels.com/photos/23644575/pexels-photo-23644575/free-photo-of-toucan-sitting-on-branch.jpeg?auto=compress&cs=tinysrgb&w=1200",
       submittedBy: "Liam",
       submittedOn: "2024-09-15T10:20:00",
       price: "$18",

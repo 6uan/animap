@@ -22,4 +22,19 @@ const getEventById = async (req, res) => {
   }
 };
 
-export default { getEvents, getEventById };
+// New function to get events by location
+const getEventsByLocation = async (req, res) => {
+  const locationName = req.params.locationName;
+
+  try {
+    const results = await pool.query(
+      "SELECT * FROM events WHERE location = $1",
+      [locationName]
+    );
+    res.status(200).json(results.rows);
+  } catch (error) {
+    res.status(409).json({ error: error.message });
+  }
+};
+
+export default { getEvents, getEventById, getEventsByLocation };

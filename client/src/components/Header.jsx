@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
-    <header className="mx-auto h-20 w-full border-b-2 border-black border-opacity-15 bg-[#5b6f73] px-40">
+    <header className="flex h-20 w-full items-center justify-center border-b-2 border-black border-opacity-15 bg-[#5b6f73] px-40">
       <Link to="/">
         <div className="flex h-20 justify-center">
           <div className="bg-a_upper h-20 w-16 bg-[length:92px_92px] bg-center bg-no-repeat" />
@@ -13,6 +13,9 @@ const Header = () => {
           <div className="bg-p_lower ml-[-3px] h-20 w-14 bg-[length:70px] bg-center bg-no-repeat" />
         </div>
       </Link>
+      <p className="font-source-code text-3xl font-light text-black">
+        | Central Park Zoo
+      </p>
     </header>
   );
 };
