@@ -84,7 +84,8 @@ const eventData = {
         "Learn how to safely handle snakes with our expert trainers.",
       peopleAttending: 25,
       location: "Central Park Zoo, Reptile Kingdom",
-      image: "https://tinyurl.com/snakehandling",
+      image:
+        "https://images.pexels.com/photos/1040659/pexels-photo-1040659.jpeg?auto=compress&cs=tinysrgb&w=1200",
       submittedBy: "Lara",
       submittedOn: "2024-07-20T15:00:00",
       price: "$20",
@@ -98,7 +99,8 @@ const eventData = {
         "Learn about global reptile conservation efforts and how you can help.",
       peopleAttending: 100,
       location: "Central Park Zoo, Reptile Kingdom",
-      image: "https://tinyurl.com/reptileconservation",
+      image:
+        "https://images.pexels.com/photos/751694/pexels-photo-751694.jpeg?auto=compress&cs=tinysrgb&w=1200",
       submittedBy: "George",
       submittedOn: "2024-07-18T09:30:00",
       price: "$15",
@@ -112,7 +114,8 @@ const eventData = {
         "Get up close with lizards and geckos in this family-friendly event.",
       peopleAttending: 80,
       location: "Central Park Zoo, Reptile Kingdom",
-      image: "https://tinyurl.com/lizardadventure",
+      image:
+        "https://images.pexels.com/photos/1618659/pexels-photo-1618659.jpeg?auto=compress&cs=tinysrgb&w=1200",
       submittedBy: "Amy",
       submittedOn: "2024-08-01T10:00:00",
       price: "$12",
@@ -126,7 +129,8 @@ const eventData = {
         "Join our experts in observing the fascinating behavior of tortoises.",
       peopleAttending: 60,
       location: "Central Park Zoo, Reptile Kingdom",
-      image: "https://tinyurl.com/tortoisetrekking",
+      image:
+        "https://images.pexels.com/photos/7723166/pexels-photo-7723166.jpeg?auto=compress&cs=tinysrgb&w=1200",
       submittedBy: "John",
       submittedOn: "2024-08-15T14:45:00",
       price: "$18",
@@ -140,7 +144,8 @@ const eventData = {
         "Witness the excitement of crocodile feeding with our zookeepers.",
       peopleAttending: 75,
       location: "Central Park Zoo, Reptile Kingdom",
-      image: "https://tinyurl.com/crocodilefeeding",
+      image:
+        "https://images.pexels.com/photos/28571797/pexels-photo-28571797/free-photo-of-gharials-resting-by-a-pond-in-hyderabad.jpeg?auto=compress&cs=tinysrgb&w=1200",
       submittedBy: "Michael",
       submittedOn: "2024-09-25T12:15:00",
       price: "$20",
