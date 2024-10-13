@@ -53,12 +53,15 @@ Here's a walkthrough of implemented required features:
 Each Location detail page should have its own unique URL
 ![UniqueURL](https://github.com/user-attachments/assets/7c4fac7b-d1fb-41ed-845d-912dcac21cd7)
 
+![NewDemo](https://github.com/user-attachments/assets/bc01794e-f596-40ea-a3fa-f316fda0f73a)
+
+
 
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  GIF tool here
+GIF created with ...  Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
